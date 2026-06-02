@@ -13,9 +13,9 @@
 		"@alanscodelog/semantic-release-config": "^6.0.2"
 	},
 	"devDependencies": {
-		"@commitlint/cli": "^19.8.1",
+		"@commitlint/cli": "^21.0.2",
 		"husky": "^9.1.7",
-		"semantic-release": "^23.1.1"
+		"semantic-release": "^25.0.3"
 	},
 	"author": "Alan <alanscodelog@gmail.com>",
 	"repository": "github:alanscodelog/commitlint-config",
