@@ -9,15 +9,15 @@
 		"prepare": "husky"
 	},
 	"peerDependencies": {
-		"@alanscodelog/semantic-release-config": "^5.0.4"
+		"@alanscodelog/semantic-release-config": "^6.0.2"
 	},
 	"devDependencies": {
-		"@commitlint/cli": "^19.3.0",
-		"husky": "^9.0.11",
+		"@commitlint/cli": "^19.8.1",
+		"husky": "^9.1.7",
 		"semantic-release": "^23.1.1"
 	},
 	"author": "Alan <alanscodelog@gmail.com>",
-	"repository": "https://github.com/alanscodelog/commitlint-config",
+	"repository": "github:alanscodelog/commitlint-config",
 	"license": "MIT",
 	"files": [
 		"commitlint.config.js"
