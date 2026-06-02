@@ -1,5 +1,7 @@
-[![Release](https://github.com/alanscodelog/commitlint-config/actions/workflows/release.yml/badge.svg)](https://github.com/alanscodelog/commitlint-config/actions/workflows/release.yml)
-[![NPM Version (with latest tag)](https://img.shields.io/npm/v/%40alanscodelog%2Fcommitlint-config/latest)](https://www.npmjs.com/package/@alanscodelog/commitlint-config/v/latest)
+[![Docs][docs-src]][docs-href]
+[![Release][release-src]][release-href]
+[![npm version][npm-version-src]][npm-version-href]
+[![License][license-src]][license-href]
 
 My preferred commitlint config.
 
@@ -19,3 +21,13 @@ pnpm add -D @alanscodelog/commitlint-config @alanscodelog/semantic-release-confi
 	"commitlint": { "extends": [ "@alanscodelog" ] },
 }
 ```
+
+<!-- Badges -->
+[docs-src]: https://github.com/alanscodelog/commitlint-config/actions/workflows/docs.yml/badge.svg
+[docs-href]: https://github.com/alanscodelog/commitlint-config/actions/workflows/docs.yml
+[release-src]: https://github.com/alanscodelog/commitlint-config/actions/workflows/release.yml/badge.svg
+[release-href]: https://github.com/alanscodelog/commitlint-config/actions/workflows/release.yml
+[npm-version-src]: https://img.shields.io/npm/v/@alanscodelog/commitlint-config/latest
+[npm-version-href]: https://www.npmjs.com/package/@alanscodelog/commitlint-config/v/latest
+[license-src]: https://img.shields.io/npm/l/@alanscodelog/commitlint-config.svg?style=flat&colorA=020420&colorB=00DC82
+[license-href]: https://npmjs.com/package/@alanscodelog/commitlint-config
