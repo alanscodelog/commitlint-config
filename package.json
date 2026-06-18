@@ -19,6 +19,10 @@
 	},
 	"author": "Alan <alanscodelog@gmail.com>",
 	"repository": "github:alanscodelog/commitlint-config",
+	"homepage": "https://github.com/alanscodelog/commitlint-config#readme",
+	"bugs": {
+		"url": "https://github.com/alanscodelog/commitlint-config/issues"
+	},
 	"license": "MIT",
 	"files": [
 		"commitlint.config.js"
